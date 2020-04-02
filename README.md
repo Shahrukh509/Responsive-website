@@ -4,7 +4,7 @@
 A complete responsive website for those you want to start their business as tour guide.
 
 ---
-##Features:
+## Features:
 * Navbar.
 * Carousel.
 * Cards.
@@ -13,7 +13,7 @@ A complete responsive website for those you want to start their business as tour
 * Social-icons.
 ---
 
-###How to use:
+### How to use:
 * Clone repository
 * choose path of your choice.
 
