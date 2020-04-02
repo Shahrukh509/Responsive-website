@@ -10,6 +10,7 @@ A complete responsive website for those you want to start their business as tour
 * Form
 * Footer.
 * Social-icons.
+* Animate.css
 ---
 
 ### How to use:
